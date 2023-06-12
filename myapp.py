@@ -98,8 +98,8 @@ plt = Create_Plot()
 #     </style>
 #     <div>
 #         <ul class="name">
-#             <li>Moh Adi Ikfini M (1301194160)</li>
-#             <li>Muhammad Farhan Fhalosa ( 1301194411 )</li>
+#             <li>Hanifatul Insan(1301204124)</li>
+#             <li>Riza Nawal Nurriadi (1301204137)</li>
 #         </ul>
 #     </div>
 # """
