@@ -9,7 +9,7 @@ from bokeh.layouts import column, row
 import random
 
 #inisiasi Data
-df = pd.read_csv("./data/covid19.csv")
+df = pd.read_csv("./covid19.csv")
 ArrBenua = np.array(["All"])
 ArrBenua = np.append(ArrBenua,df["WHO Region"].unique())
 ArrCountry = np.array(["All"])
